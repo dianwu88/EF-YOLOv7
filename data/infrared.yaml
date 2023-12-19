@@ -1,0 +1,7 @@
+train: D:\yolov7-main\dataset\infrared\images\train_person
+val: D:\yolov7-main\dataset\infrared\images\val_person
+test: D:\yolov7-main\dataset\infrared-test\images\val_perso
+
+nc: 1
+names: ['person']
+
